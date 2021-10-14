@@ -72,8 +72,8 @@ public class MainActivity extends WearableActivity {
 
 
     //Todo: 从服务端获取
-    String APP_ID = "20200803000532380";
-    String SECRET_KEY = "VQoeTSBUg1YkptcUNeLr";
+    String APP_ID = "";
+    String SECRET_KEY = "";
     private boolean isNeedCheck = true;
 
 
